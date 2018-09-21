@@ -1,0 +1,4 @@
+#Fri Sep 21 12:01:07 MDT 2018
+base.0=/Users/jasonstroup/playground/rn-awesome-places/android/app/build/intermediates/transforms/dexMerger/debug/86
+path.0=classes.dex
+renamed.0=classes.dex

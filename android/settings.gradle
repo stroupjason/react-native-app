@@ -1,0 +1,3 @@
+rootProject.name = 'rnawesomeplaces'
+
+include ':app'
